@@ -1,0 +1,26 @@
+div{
+    text-align: center;
+    align-items: center;
+}
+
+.heading_1{
+    color: green;
+    font-size: 40px;
+}
+
+.heading_2{
+    color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    display: block;
+}
+
+.list{
+    display: inline-block;
+    text-align: left;
+}
+
+img{
+    width: 612px;
+    height: auto;
+}

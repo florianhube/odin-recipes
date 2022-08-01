@@ -1,0 +1,37 @@
+div{
+    text-align: center;
+}
+
+a{
+    color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    display: block;
+}
+
+a:link { 
+    text-decoration: none; 
+}
+
+
+a:visited { 
+    text-decoration: none; 
+}
+
+
+a:hover { 
+    color: hsl(232, 100%, 80%, 1);
+    
+
+ }
+
+
+a:active { 
+    text-decoration: none; 
+}
+
+.heading{
+    color: green;
+    font-size: 40px;
+}
+
